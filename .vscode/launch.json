@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "SnakeGame_bb66f5c9"
+        },
+        {
+            "type": "java",
+            "name": "Launch SnakeGame",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "YourProjectName"
+        }
+    ]
+}
